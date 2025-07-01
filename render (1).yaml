@@ -1,0 +1,12 @@
+# Exported from Render on 2025-07-01T14:53:35Z
+databases:
+- name: 'Ok-ex.io_database '
+  databaseName: ok_ex_io_database
+  user: ok_ex_io_database_user
+  plan: free
+  region: oregon
+  ipAllowList:
+  - source: 0.0.0.0/0
+    description: everywhere
+  postgresMajorVersion: "16"
+version: "1"
